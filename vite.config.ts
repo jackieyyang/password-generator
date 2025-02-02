@@ -14,7 +14,7 @@ export default defineConfig({
     vueDevTools(),
     tailwindcss(),
   ],
-  base: './',
+  base: '/password-generator/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
