@@ -4,7 +4,7 @@
 
 一个基于Vue 3的现代化密码生成器，提供直观的用户界面和丰富的密码生成选项。
 
-🔗 [在线预览](https://jackieyang.github.io/password-generator)
+🔗 [在线预览](https://jackieyyang.github.io/password-generator)
 
 ## 功能特点
 
@@ -26,7 +26,7 @@
 
 1. 克隆项目
 ```sh
-git clone https://github.com/jackieyang/password-generator.git
+git clone https://github.com/jackieyyang/password-generator.git
 cd password-generator
 ```
 

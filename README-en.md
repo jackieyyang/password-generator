@@ -4,7 +4,7 @@
 
 A modern password generator based on Vue 3, providing an intuitive user interface and rich password generation options.
 
-🔗 [Live Demo](https://jackieyang.github.io/password-generator)
+🔗 [Live Demo](https://jackieyyang.github.io/password-generator)
 
 ## Features
 
@@ -26,7 +26,7 @@ A modern password generator based on Vue 3, providing an intuitive user interfac
 
 1. Clone the repository
 ```sh
-git clone https://github.com/jackieyang/password-generator.git
+git clone https://github.com/jackieyyang/password-generator.git
 cd password-generator
 ```
 
